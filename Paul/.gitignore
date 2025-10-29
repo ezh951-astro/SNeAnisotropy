@@ -1,0 +1,3 @@
+visualization/*.pyc
+visualization/__pycache__/*.pyc
+*.pyc

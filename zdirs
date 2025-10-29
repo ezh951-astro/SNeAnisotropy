@@ -1,0 +1,47 @@
+% Run Labels
+Isotropic
+zeta3
+Out-of-Disk Favored
+zeta30
+zeta0.3
+In-Disk Favored
+zeta1-VolWgt
+zeta10-VolWgt
+zeta1-MassWgt
+zeta10-MassWgt
+
+% Evo Data Files
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+
+% Final Snapshots
+../../AREPO/Poison/run/Marinacci19_Counter/out-1.0/snapshot_400.hdf5
+../../AREPO/Poison/run/Marinacci19_Counter/out-3.0/snapshot_400.hdf5
+../../AREPO/Poison/run/Marinacci19_Counter/out-10.0/snapshot_400.hdf5
+../../AREPO/Poison/run/Marinacci19_Counter/out-30.0/snapshot_400.hdf5
+../../AREPO/Poison/run/Marinacci19_Counter/out-0.3/snapshot_400.hdf5
+../../AREPO/Poison/run/Marinacci19_Counter/out-0.1/snapshot_400.hdf5
+../../AREPO/Poison/run/CustomWgt/out1.0-wgt2Vol/snapshot_400.hdf5
+../../AREPO/Poison/run/CustomWgt/out10.0-wgt2Vol/snapshot_400.hdf5
+../../AREPO/Poison/run/CustomWgt/out1.0-wgt3Mass/snapshot_400.hdf5
+../../AREPO/Poison/run/CustomWgt/out10.0-wgt3Mass/snapshot_400.hdf5
+
+% Final FoF Files
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None

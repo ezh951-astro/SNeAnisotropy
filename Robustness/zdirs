@@ -1,0 +1,39 @@
+% Run Labels
+zeta1-HiEff
+zeta10-HiEff
+zeta1-LoThr
+zeta10-LoThr
+zeta1-HiEff-LoThr
+zeta10-HiEff-LoThr
+zeta1-DefHiRes
+zeta10-DefHiRes
+
+% Evo Data Files
+None
+None
+None
+None
+None
+None
+None
+None
+
+% Final Snapshots
+../../../AREPO/Poison/run/M19Curc/out1.0-hieff/snapshot_400.hdf5
+../../../AREPO/Poison/run/M19Curc/out10.0-hieff/snapshot_400.hdf5
+../../../AREPO/Poison/run/M19Curc/out1.0-lothr/snapshot_400.hdf5
+../../../AREPO/Poison/run/M19Curc/out10.0-lothr/snapshot_400.hdf5
+../../../AREPO/Poison/run/M19Curc/out1.0-hieff-lothr/snapshot_400.hdf5
+../../../AREPO/Poison/run/M19Curc/out10.0-hieff-lothr/snapshot_400.hdf5
+../../../AREPO/Poison/run/M19Curc/out1.0-nsoft/snapshot_310.hdf5
+../../../AREPO/Poison/run/M19Curc/out10.0-nsoft/snapshot_310.hdf5
+
+% Final FoF Files
+None
+None
+None
+None
+None
+None
+None
+None
